@@ -1,2 +1,196 @@
-# privacy-Bosla
-سياسة الخصوصية لتطبيق بوصلة الشغل عن بعد
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy | Bosla Remote Work</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f4f7fb;
+    color:#333;
+    line-height:1.8;
+}
+
+header{
+    background:#0b3d91;
+    color:white;
+    padding:40px 20px;
+    text-align:center;
+}
+
+.container{
+    max-width:900px;
+    margin:40px auto;
+    background:white;
+    padding:35px;
+    border-radius:12px;
+    box-shadow:0 4px 15px rgba(0,0,0,.08);
+}
+
+h1,h2{
+    color:#0b3d91;
+}
+
+.footer{
+    text-align:center;
+    margin-top:40px;
+    color:#666;
+    font-size:14px;
+}
+
+a{
+    color:#0b3d91;
+}
+
+ul{
+    padding-left:20px;
+}
+
+.date{
+    color:#777;
+    font-size:14px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+
+<h1>Bosla Remote Work</h1>
+
+<h3>Privacy Policy</h3>
+
+<div class="date">
+Last Updated: July 14, 2026
+</div>
+
+</header>
+
+<div class="container">
+
+<h2>Introduction</h2>
+
+<p>
+Thank you for using <strong>Bosla Remote Work</strong>.
+We respect your privacy and are committed to protecting your personal information.
+This Privacy Policy explains how the application handles user information.
+</p>
+
+<h2>Information We Collect</h2>
+
+<p>
+The application does not require users to create an account and does not collect personal information such as:
+</p>
+
+<ul>
+<li>Name</li>
+<li>Email Address</li>
+<li>Phone Number</li>
+<li>Password</li>
+</ul>
+
+<p>
+Any information entered on external websites accessed through the application is governed by the privacy policies of those websites.
+</p>
+
+<h2>Local Storage</h2>
+
+<p>
+The application stores some information locally on your device only, including:
+</p>
+
+<ul>
+<li>Language preference</li>
+<li>Favorite platforms</li>
+<li>Job search plan</li>
+<li>Resume (CV) information created inside the application</li>
+</ul>
+
+<p>
+This information is not transmitted to our servers.
+</p>
+
+<h2>Advertising</h2>
+
+<p>
+This application uses Google AdMob to display advertisements.
+Google may use advertising identifiers and similar technologies to provide personalized or non-personalized ads.
+</p>
+
+<p>
+Learn more about Google's privacy practices:
+</p>
+
+<p>
+<a href="https://policies.google.com/privacy" target="_blank">
+https://policies.google.com/privacy
+</a>
+</p>
+
+<h2>External Websites</h2>
+
+<p>
+The application contains links to external websites including freelance platforms, remote job websites and online learning platforms.
+We are not responsible for the privacy practices or content of those websites.
+</p>
+
+<h2>WebView</h2>
+
+<p>
+Some websites are displayed inside the application using Android WebView.
+These websites may use cookies and their own tracking technologies according to their own privacy policies.
+</p>
+
+<h2>Notifications</h2>
+
+<p>
+The application may send one daily notification recommending a remote work platform or learning opportunity.
+These notifications do not collect personal information.
+</p>
+
+<h2>Children's Privacy</h2>
+
+<p>
+This application is not directed toward children under the age of 13.
+</p>
+
+<h2>Security</h2>
+
+<p>
+We take reasonable measures to protect locally stored information.
+However, no electronic storage method is completely secure.
+</p>
+
+<h2>Changes to This Policy</h2>
+
+<p>
+We may update this Privacy Policy from time to time.
+Any updates will be published on this page.
+</p>
+
+<h2>Contact Us</h2>
+
+<p>
+If you have any questions regarding this Privacy Policy, please contact us:
+</p>
+
+<p>
+Email:
+<strong>shriefaboulailah@gmail.com
+</strong>
+</p>
+
+</div>
+
+<div class="footer">
+
+© 2026 Bosla Remote Work. All Rights Reserved.
+
+</div>
+
+</body>
+</html>
